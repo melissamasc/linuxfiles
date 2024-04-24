@@ -1,0 +1,4 @@
+﻿You found the hidden file!
+
+
+The secret number is 38.
