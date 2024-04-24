@@ -1,5 +1,5 @@
 ﻿import math
-print ("Congratulations on making this executable!")
+#print ("Congratulations on making this executable!")
 x = int(input("What is your input number?"))
 factors = 1
 if x==1:
