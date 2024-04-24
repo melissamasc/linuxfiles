@@ -1,0 +1,11 @@
+﻿import math
+print ("Congratulations on making this executable!")
+x = int(input("What is your input number?"))
+factors = 1
+if x==1:
+        factors = 0
+topnum = math.ceil(x/2)+1
+for i in range(1, topnum):
+        if (x%i==0):
+                factors= factors + 1
+print (factors)
